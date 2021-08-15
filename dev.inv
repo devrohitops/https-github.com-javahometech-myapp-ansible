@@ -1,2 +1,2 @@
 [webservers]
-osboxes ansible_user=osboxes
+osboxes ansible_user=osboxes ansible_become_pass=osboxes.org

@@ -1,2 +1,2 @@
 [webservers]
-osboxes ansible_user=root
+osboxes ansible_user=osboxes
